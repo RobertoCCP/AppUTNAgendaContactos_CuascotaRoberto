@@ -9,3 +9,5 @@ Nombre: Roberto Cuascota
 <img width="1280" alt="Codigo_agenda2" src="https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/56f4df70-5c49-48b2-b918-f09ffaba385e">
 
 ![Captura de pantalla 2024-04-13 194822](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/673b73e5-0bde-464d-85e9-ed0e938bff21)
+
+![Buscar](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/4dd45f68-0082-4e2c-9bc3-866558f66b7d)
