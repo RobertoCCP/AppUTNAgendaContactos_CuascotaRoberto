@@ -3,13 +3,16 @@ Capturas de Agenda de Contactos Android:
 Nombre: Roberto Cuascota
 
 Interfaz:
-![Interfaz](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/d52d4765-ca7b-4665-a464-4f66b6e41964)
+![Captura de pantalla 2024-04-13 201623](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/cf375e4f-c4c6-474f-ac23-7014bb65c9aa)
 
-Código 1:
-![Codigo 1](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/4e2db357-adf9-46f3-8a8d-5bad76d72d02)
+Código:
+<img width="1280" alt="image" src="https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/90682814-58df-40cd-863e-7fcd5b79afe8">
 
-Código 2:
-![Codigo 2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/ef569051-e4c9-4558-857e-dd51d4bdef69)
+Metodo Guardar:
+![Captura de pantalla 2024-04-13 201507](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/16926c35-49a8-403f-b8ef-c54357a3e0aa)
+
+Metodo Buscar:
+![Captura de pantalla 2024-04-13 201807](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/fb6b7df1-8896-416a-9497-58a0819652ca)
 
 Guardar 1:
 ![Guardar](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/846c33b3-69f1-4e41-aa3c-3e0164a9bc39)
