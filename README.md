@@ -5,10 +5,10 @@ Nombre: Roberto Cuascota
 Interfaz:
 ![Interfaz](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/d52d4765-ca7b-4665-a464-4f66b6e41964)
 
-Codigo 1:
+Código 1:
 ![Codigo 1](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/4e2db357-adf9-46f3-8a8d-5bad76d72d02)
 
-Codigo 2:
+Código 2:
 ![Codigo 2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/ef569051-e4c9-4558-857e-dd51d4bdef69)
 
 Guardar 1:
