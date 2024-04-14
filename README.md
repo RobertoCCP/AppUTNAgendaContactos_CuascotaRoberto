@@ -28,3 +28,7 @@ Buscar 2:
 Buscar 3:
 ![Buscar 3](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/0f1c2bea-7ecd-4809-b7b5-202b5fc15942)
 
+Buscar 4:
+![Buscar4](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/5302b858-f6d6-4049-9a60-b44c6e7f024d)
+
+
