@@ -14,16 +14,16 @@ Metodo Guardar:
 Metodo Buscar:
 ![Captura de pantalla 2024-04-13 201807](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/fb6b7df1-8896-416a-9497-58a0819652ca)
 
-Guardar 1:
+Guardar campos completos:
 ![Guardar](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/846c33b3-69f1-4e41-aa3c-3e0164a9bc39)
 
-Guardar 2:
+Guardar sin completar campos:
 ![Guardar2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/9f1847bf-79e4-47c5-b1d5-c8a14a9630ac)
 
-Buscar 1:
+Buscar contacto que existe:
 ![Buscar](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/3a3f61fc-f6c4-4d07-b54c-6c452b134cd6)
 
-Buscar 2:
+Buscar contacto que no existe:
 ![Buscar2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/9b5381f9-9d9c-4778-898c-23962861153a)
 
 Buscar sin completar campos:
