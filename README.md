@@ -3,22 +3,28 @@ Capturas de Agenda de Contactos Android:
 Nombre: Roberto Cuascota
 
 Interfaz:
-<img width="1280" alt="Interfaz_Agenda" src="https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/26e17ebd-378e-497d-a402-4a6612bd395b">
+![Interfaz](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/d52d4765-ca7b-4665-a464-4f66b6e41964)
+
+Codigo 1:
+![Codigo 1](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/4e2db357-adf9-46f3-8a8d-5bad76d72d02)
+
+Codigo 2:
+![Codigo 2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/ef569051-e4c9-4558-857e-dd51d4bdef69)
+
+Guardar 1:
+![Guardar](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/846c33b3-69f1-4e41-aa3c-3e0164a9bc39)
+
+Guardar 2:
+![Guardar2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/9f1847bf-79e4-47c5-b1d5-c8a14a9630ac)
+
+Buscar 1:
+![Buscar](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/3a3f61fc-f6c4-4d07-b54c-6c452b134cd6)
 
 
-![Captura de pantalla 2024-04-13 192911](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/6e8f19b4-7f40-414f-aac4-82e03927d241)
-
-Guardar contactos 1:
-<img width="1280" alt="Codigo_agenda2" src="https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/56f4df70-5c49-48b2-b918-f09ffaba385e">
-
-Guardar contactos 2:
-![Captura de pantalla 2024-04-13 194822](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/673b73e5-0bde-464d-85e9-ed0e938bff21)
+Buscar 2:
+![Buscar2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/9b5381f9-9d9c-4778-898c-23962861153a)
 
 
-![Buscar2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/2a4f4fd7-d01e-4257-9021-c6e10cc79f65)
+Buscar 3:
+![Buscar 3](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/0f1c2bea-7ecd-4809-b7b5-202b5fc15942)
 
-![Buscar](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/4dd45f68-0082-4e2c-9bc3-866558f66b7d)
-
-![Buscar2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/ef12b08d-d397-489a-a292-9abcee7445f2)
-
-![Buscar 3](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/1270650a-01eb-4893-b89f-846a7682c330)
