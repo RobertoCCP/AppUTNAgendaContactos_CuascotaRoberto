@@ -20,15 +20,13 @@ Guardar 2:
 Buscar 1:
 ![Buscar](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/3a3f61fc-f6c4-4d07-b54c-6c452b134cd6)
 
-
 Buscar 2:
 ![Buscar2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/9b5381f9-9d9c-4778-898c-23962861153a)
 
-
-Buscar 3:
+Buscar sin completar campos:
 ![Buscar 3](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/0f1c2bea-7ecd-4809-b7b5-202b5fc15942)
 
-Buscar 4:
+Buscar contacto que no existe:
 ![Buscar4](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/5302b858-f6d6-4049-9a60-b44c6e7f024d)
 
 
