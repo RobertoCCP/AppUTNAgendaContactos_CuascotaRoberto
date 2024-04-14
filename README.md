@@ -23,7 +23,7 @@ Guardar sin completar campos:
 Buscar contacto que existe:
 ![Buscar](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/3a3f61fc-f6c4-4d07-b54c-6c452b134cd6)
 
-Buscar contacto que no existe:
+Buscar contacto que existe 2:
 ![Buscar2](https://github.com/RobertoCCP/AppUTNAgendaContactos_CuascotaRoberto/assets/138709561/9b5381f9-9d9c-4778-898c-23962861153a)
 
 Buscar sin completar campos:
